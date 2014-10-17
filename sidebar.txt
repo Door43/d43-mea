@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mea:home|Door43 (mea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mea|d43-mea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mea/archive/master.zip|d43-mea.zip]]
+
+**Recent Changes**
+{{changes>ns = mea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mea|Ethnologue data]]
+
